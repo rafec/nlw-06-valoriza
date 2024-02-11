@@ -2,7 +2,7 @@
 
 ### `#Description`
 
-This project was build following the NLW#06 by Rocketseat, an event where you pick a stack and can develop an entire application together with the experts from Rockerseat and the community of developers, in a matter of days.
+This project was build following the NLW#06 by Rocketseat, an event where you pick a stack and can develop an entire application together with the experts from Rocketseat and the community of developers, in a matter of days.
 
 This project has the objective of creating something like a virtual mural, for the users to post compliments to the other users. This application can be used in a team of developers, with work colleagues, etc.
 
