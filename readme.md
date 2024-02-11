@@ -94,3 +94,7 @@ The following routes were created:
   <br/>
 
 - `GET /users/received-compliments` - List all the compliments received by the user. **You need to be authenticated to acess this route.**
+
+### `#Go beyond`
+
+This project was developed to improve my knowledge and skills in the used technologies, but if you want to contribute somehow, or for exemple, develop the `front-end` of this project, you can create an `issue`, `pull-request`, or you can contact me through [Linkedin](https://www.linkedin.com/in/rafael-brizuena/). I would love to help!
