@@ -1,6 +1,6 @@
 # Next Level Week #06 (NLW Valoriza)
 
-### Description
+### `#Description`
 
 This project was build following the NLW#06 by Rocketseat, an event where you pick a stack and can develop an entire application together with the experts from Rockerseat and the community of developers, in a matter of days.
 
@@ -8,11 +8,11 @@ This project has the objective of creating something like a virtual mural, for t
 
 You can select a user to compliment, select the tags that you want to highlight (like leadership, focus, comradeship) and write a message to the other user. Simple like that.
 
-### Technologies
+### `#Technologies`
 
 This project was developed using `Nodejs` and `Express`. `JsonWebToken` was used for the authentication matters, and `TypeORM` was used as the ORM to communicate with the database (`SQLite` was used). Some other libs were used to encrypt data (`bcryptjs`), generate unique identifiers (`uuid`), and etc.
 
-### How to Install
+### `#How to Install`
 
 To run this project, you need Nodejs at version 16 or higher. You can clone this repository to a folder in your pc, or you can download the `.zip` package and extract it in your desired folder.
 
@@ -32,7 +32,7 @@ This will start the server at the port `3000`. Make sure you don't have any appl
 
 Then, you can use any client to send HTTP requests to the application, such as Insomnia, Postman, Thunderclient, etc. The routes are specified at the `routes.js` file.
 
-### Routes
+### `#Routes`
 
 The following routes were created:
 
